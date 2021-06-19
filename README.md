@@ -8,7 +8,6 @@ I am a full-time Computer Science major at the University of Texas at Austin. In
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=Windows&logoColor=white&color=1c00b4)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&logoColor=white&color=1c00b4)
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=Java&logoColor=white&color=1c00b4)
-![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=GNU-Bash&logoColor=white&color=1c00b4)
 ![](https://img.shields.io/badge/IDE-Visual_Studio_Code-informational?style=flat&logo=Visual-Studio-Code&logoColor=white&color=1c00b4)
 ![](https://img.shields.io/badge/Software-Microsoft_Office-informational?style=flat&logo=Microsoft-Office&logoColor=white&color=1c00b4)
 
