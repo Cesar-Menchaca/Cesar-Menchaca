@@ -1,6 +1,6 @@
 <h1> Hello, my name is Cesar Menchaca!</h1>
 
-I am a full-time Computer Science major at the University of Texas at Austin. In my free time, I am either studying for the Comptia A+ exams or I am doing projects that involve networking or cybersecurity. I will be recording my notes on subjects and topics I am learning about and making them public for anybody who is interested. I aspire to become an ethical hacker and I am working up to get the OSCP certification. 
+I am a full-time Computer Science major at the University of Texas at Austin. In my free time, I am either studying for the Comptia Network+ exam or I am doing projects that involve networking or cybersecurity. I will be recording my notes on subjects and topics I am learning about and making them public for anybody who is interested. I aspire to become an ethical hacker and I am working up to get the OSCP certification. 
 
 <h3>Technology and Tools I have used:</h3>
 
